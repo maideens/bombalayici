@@ -1,6 +1,6 @@
 # 💣 Bombalayıcı
 
-![image](https://github.com/maideens/bombalayici/assets/48116924/a5cef816-25b0-45f8-978e-a9abffc8b35f)
+![image](https://github.com/maideens/bombalayici/assets/48116924/7cebb653-7a8f-43e2-85b1-fba09e93e8be)
 ![2](https://github.com/maideens/bombalayici/assets/48116924/a5cef816-25b0-45f8-978e-a9abffc8b35f)
 
 # 📥 Nasıl kurulur?
