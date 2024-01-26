@@ -1,7 +1,7 @@
 # 💣 Bombalayıcı
 
-![image](https://user-images.githubusercontent.com/48116924/226446340-b1e4f256-c902-4ce6-82ce-1255b2c3e006.png)
-![2](https://user-images.githubusercontent.com/48116924/226446388-aeebeacd-1856-46e5-9e39-9b440a4a0548.png)
+![image](https://github.com/maideens/bombalayici/assets/48116924/7cebb653-7a8f-43e2-85b1-fba09e93e8be)
+![2](https://github.com/maideens/bombalayici/assets/48116924/a5cef816-25b0-45f8-978e-a9abffc8b35f)
 
 # 📥 Nasıl kurulur?
 Bazı servisler nedeniyle .exe uygulaması virüs olarak algılanacaktır, rahatlıkla dosyayı sakla diyerek kurulum yapabilirsiniz.
